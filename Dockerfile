@@ -6,4 +6,4 @@ COPY site1.conf /etc/nginx/conf.d/site1.conf
 
 EXPOSE "5050:5050"
 
-CMD ["nginx"]
+
